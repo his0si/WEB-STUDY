@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>연습문제 1</title>
+</head>
+<body>
+	<script>
+		let num = prompt("숫자를 입력하세요.");
+		
+		if(num !== null) { // [취소] 버튼이 아니라면 실행
+			num = Number(num); // 입력값을 숫자로 변환
+			
+			if(num % 4 === 0) { // 4로 나눈 나머지가 0이면 4의 배수
+				alert(num + "은(는) 4의 배수입니다.");
+			} else { // 그렇지 않으면 4의 배수가 아님
+				alert(num + "은(는) 4의 배수가 아닙니다.");
+			}
+}
+
+	</script>
+</body>
+</html>
