@@ -28,6 +28,16 @@
 </details>
 
 </div>
+
+<details>
+<summary> Do it! HTML+CSS+자바스크립트 웹 표준의 정석 </summary>
+<div markdown="1">    
+  
+  https://youtu.be/XdFWx0lO5B4
+  
+</div>
+</details>
+
 </details>
 
 <details>
@@ -38,5 +48,4 @@
  
 </div>
 </details>
-
 
