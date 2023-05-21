@@ -35,17 +35,8 @@
   
   https://youtu.be/XdFWx0lO5B4
   
-</div>
-</details>
-
-</details>
-
-<details>
-<summary> Do it! HTML+CSS+자바스크립트 웹 표준의 정석 - 특별부록.pdf </summary>
-<div markdown="1">    
-  
   [전자책_Do it! HTML+CSS+자바스크립트 웹 표준의 정석 - 특별부록.pdf](https://github.com/his0si/WEB-STUDY/files/11482614/_Do.it.HTML%2BCSS%2B.-.pdf)
- 
+  
 </div>
 </details>
 
